@@ -117,4 +117,4 @@ o Created a 15-minute presentation video summarizing the project, its features,
 and the development process.
 o Submitted the AIS-R-Enhanced project along
 
-<br> ![git](./Images/OS~Name.png)
+<br> ![gitHistory](./gitHistory.png)
